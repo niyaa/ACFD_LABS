@@ -1,6 +1,6 @@
 # ACFD Python labs
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sgepner/ACFD-Python-labs.git/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/niyaa/ACFD_LABS/main)
 
 This contains a set of laboratories designed for students of the ACFD class.
 
